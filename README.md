@@ -1,2 +1,2 @@
 # Lukas_Knizat
-## Multimedialne systemy, 08.10.2026
+Multimedialne systemy, 08.10.2026
